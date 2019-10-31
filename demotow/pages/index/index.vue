@@ -4,7 +4,6 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
-<view>李佳峰嘢屎</view>
 	</view>
 </template>
 
